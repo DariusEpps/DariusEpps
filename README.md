@@ -12,4 +12,3 @@ Microsoft Azure
 
 [twitter]: https://twitter.com/theykno_DJ
 [instagram]: https://www.instagram.com/DariusEpps
-
