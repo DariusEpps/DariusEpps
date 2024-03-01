@@ -11,4 +11,4 @@ Microsoft Azure
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/theykno_DJ
-
+[linkedin]: https://linkedin.com/DariusEpps
