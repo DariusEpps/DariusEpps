@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/theykno_DJ
 [instagram]: https://www.instagram.com/dj.epps
-[linkedin]: https://linkedin.com/in/Darius Epps
+[linkedin]: https://linkedin.com/in/DariusEpps
