@@ -6,6 +6,10 @@
 - https://github.com/DariusEpps/osticket-prereqs
 - https://github.com/DariusEpps/OSTicket---Post-Install-Configuration
 
+<h2> Microsoft Azure </h2>
+
+- https://github.com/DariusEpps/Configuring-On-premises-Active-Directory-within-Azure-VMs
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
